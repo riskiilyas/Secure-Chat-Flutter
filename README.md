@@ -13,7 +13,7 @@
 ![ezgif-5-d753e782a3](https://github.com/riskiilyas/Secure-Chat-Flutter/assets/71499142/b24748cb-32a0-4fe3-9028-f52a508c4e25)
 
 ### Backend
-- Server or Interceptors Only See Decrypted Messages
+- Server or Interceptors Only See Encrypted Messages
   
 ![image](https://github.com/riskiilyas/Secure-Chat-Flutter/assets/71499142/0fe41a7f-6b90-4d6a-b2ce-6e13bb2401e7)
 
